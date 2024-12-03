@@ -4,6 +4,11 @@
     INTRODUCTION TO PYTHON> VARIABLES   
 
 Day 2 :
-    PYTHON DATA TYPES
+    PYTHON DATA TYPES : Primitive
         * NUMERIC 
         * STRINGS
+
+DAY 3 :
+    PYTHON DATA TYPES : Non Primitives
+        * LISTS
+    
