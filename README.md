@@ -11,4 +11,10 @@ Day 2 :
 DAY 3 :
     PYTHON DATA TYPES : Non Primitives
         * LISTS
+
+DAY 4 :
+    PYTHON DATA TYPES : Non Primitives
+        * Tuples
+        * Sets
+        * Dictionaries
     
